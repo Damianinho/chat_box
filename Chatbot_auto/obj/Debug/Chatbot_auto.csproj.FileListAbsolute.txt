@@ -1,0 +1,47 @@
+C:\Users\Mckenzie\Desktop\Chatbot_auto\Chatbot_auto\bin\Debug\Chatbot_auto.exe.config
+C:\Users\Mckenzie\Desktop\Chatbot_auto\Chatbot_auto\bin\Debug\Chatbot_auto.exe
+C:\Users\Mckenzie\Desktop\Chatbot_auto\Chatbot_auto\bin\Debug\Chatbot_auto.pdb
+C:\Users\Mckenzie\Desktop\Chatbot_auto\Chatbot_auto\obj\Debug\Chatbot_auto.Form1.resources
+C:\Users\Mckenzie\Desktop\Chatbot_auto\Chatbot_auto\obj\Debug\Chatbot_auto.Properties.Resources.resources
+C:\Users\Mckenzie\Desktop\Chatbot_auto\Chatbot_auto\obj\Debug\Chatbot_auto.csproj.GenerateResource.Cache
+C:\Users\Mckenzie\Desktop\Chatbot_auto\Chatbot_auto\obj\Debug\Chatbot_auto.exe
+C:\Users\Mckenzie\Desktop\Chatbot_auto\Chatbot_auto\obj\Debug\Chatbot_auto.pdb
+C:\Users\Mckenzie\Desktop\Chatbot_auto\Chatbot_auto\obj\Debug\Chatbot_auto.csprojResolveAssemblyReference.cache
+C:\Users\Mckenzie\Desktop\Chatbot_auto\Chatbot_auto\bin\Debug\Chatbot_auto.exe.manifest
+C:\Users\Mckenzie\Desktop\Chatbot_auto\Chatbot_auto\bin\Debug\Chatbot_auto.application
+C:\Users\Mckenzie\Desktop\Chatbot_auto\Chatbot_auto\obj\Debug\Chatbot_auto.exe.manifest
+C:\Users\Mckenzie\Desktop\Chatbot_auto\Chatbot_auto\obj\Debug\Chatbot_auto.application
+C:\Users\lenovo\Desktop\AVATARYYY\Chatbot_auto\Chatbot_auto\obj\Debug\Chatbot_auto.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\AVATARYYY\Chatbot_auto\Chatbot_auto\obj\Debug\Chatbot_auto.Form1.resources
+C:\Users\lenovo\Desktop\AVATARYYY\Chatbot_auto\Chatbot_auto\obj\Debug\Chatbot_auto.Properties.Resources.resources
+C:\Users\lenovo\Desktop\AVATARYYY\Chatbot_auto\Chatbot_auto\obj\Debug\Chatbot_auto.csproj.GenerateResource.Cache
+C:\Users\lenovo\Desktop\AVATARYYY\Chatbot_auto\Chatbot_auto\obj\Debug\Chatbot_auto.exe
+C:\Users\lenovo\Desktop\AVATARYYY\Chatbot_auto\Chatbot_auto\obj\Debug\Chatbot_auto.pdb
+C:\Users\Jan Mikołajczyk\Desktop\aa\AVATARYYY\Chatbot_auto\Chatbot_auto\obj\Debug\Chatbot_auto.csprojAssemblyReference.cache
+C:\Users\Jan Mikołajczyk\Desktop\aa\AVATARYYY\Chatbot_auto\Chatbot_auto\obj\Debug\Chatbot_auto.Form1.resources
+C:\Users\Jan Mikołajczyk\Desktop\aa\AVATARYYY\Chatbot_auto\Chatbot_auto\obj\Debug\Chatbot_auto.Properties.Resources.resources
+C:\Users\Jan Mikołajczyk\Desktop\aa\AVATARYYY\Chatbot_auto\Chatbot_auto\obj\Debug\Chatbot_auto.csproj.GenerateResource.cache
+C:\Users\Jan Mikołajczyk\Desktop\aa\AVATARYYY\Chatbot_auto\Chatbot_auto\obj\Debug\Chatbot_auto.csproj.CoreCompileInputs.cache
+C:\Users\Jan Mikołajczyk\Desktop\aa\AVATARYYY\Chatbot_auto\Chatbot_auto\obj\Debug\Chatbot_auto.exe
+C:\Users\Jan Mikołajczyk\Desktop\aa\AVATARYYY\Chatbot_auto\Chatbot_auto\obj\Debug\Chatbot_auto.pdb
+C:\Users\Jan Mikołajczyk\Desktop\aa\AVATARYYY\Chatbot_auto\Chatbot_auto\bin\Debug\Chatbot_auto.exe.config
+C:\Users\Jan Mikołajczyk\Desktop\aa\AVATARYYY\Chatbot_auto\Chatbot_auto\bin\Debug\Chatbot_auto.exe.manifest
+C:\Users\Jan Mikołajczyk\Desktop\aa\AVATARYYY\Chatbot_auto\Chatbot_auto\bin\Debug\Chatbot_auto.application
+C:\Users\Jan Mikołajczyk\Desktop\aa\AVATARYYY\Chatbot_auto\Chatbot_auto\bin\Debug\Chatbot_auto.exe
+C:\Users\Jan Mikołajczyk\Desktop\aa\AVATARYYY\Chatbot_auto\Chatbot_auto\bin\Debug\Chatbot_auto.pdb
+C:\Users\Jan Mikołajczyk\Desktop\aa\AVATARYYY\Chatbot_auto\Chatbot_auto\obj\Debug\Chatbot_auto.exe.manifest
+C:\Users\Jan Mikołajczyk\Desktop\aa\AVATARYYY\Chatbot_auto\Chatbot_auto\obj\Debug\Chatbot_auto.application
+J:\Dejmien\aa\AVATARYYY\Chatbot_auto\Chatbot_auto\bin\Debug\Chatbot_auto.exe.config
+J:\Dejmien\aa\AVATARYYY\Chatbot_auto\Chatbot_auto\bin\Debug\Chatbot_auto.exe.manifest
+J:\Dejmien\aa\AVATARYYY\Chatbot_auto\Chatbot_auto\bin\Debug\Chatbot_auto.application
+J:\Dejmien\aa\AVATARYYY\Chatbot_auto\Chatbot_auto\bin\Debug\Chatbot_auto.exe
+J:\Dejmien\aa\AVATARYYY\Chatbot_auto\Chatbot_auto\bin\Debug\Chatbot_auto.pdb
+J:\Dejmien\aa\AVATARYYY\Chatbot_auto\Chatbot_auto\obj\Debug\Chatbot_auto.csprojAssemblyReference.cache
+J:\Dejmien\aa\AVATARYYY\Chatbot_auto\Chatbot_auto\obj\Debug\Chatbot_auto.Form1.resources
+J:\Dejmien\aa\AVATARYYY\Chatbot_auto\Chatbot_auto\obj\Debug\Chatbot_auto.Properties.Resources.resources
+J:\Dejmien\aa\AVATARYYY\Chatbot_auto\Chatbot_auto\obj\Debug\Chatbot_auto.csproj.GenerateResource.cache
+J:\Dejmien\aa\AVATARYYY\Chatbot_auto\Chatbot_auto\obj\Debug\Chatbot_auto.csproj.CoreCompileInputs.cache
+J:\Dejmien\aa\AVATARYYY\Chatbot_auto\Chatbot_auto\obj\Debug\Chatbot_auto.exe.manifest
+J:\Dejmien\aa\AVATARYYY\Chatbot_auto\Chatbot_auto\obj\Debug\Chatbot_auto.application
+J:\Dejmien\aa\AVATARYYY\Chatbot_auto\Chatbot_auto\obj\Debug\Chatbot_auto.exe
+J:\Dejmien\aa\AVATARYYY\Chatbot_auto\Chatbot_auto\obj\Debug\Chatbot_auto.pdb
